@@ -1,7 +1,7 @@
 # Procedimento Técnico de Backup e Restore — UC 3
 
 * **Aluno(a):** luciano martins gomes
-* **Tema:** [Backup e Restore]
+* **Tema:** Backup e Restore
 
 ## 1. Objetivo
 Garantir a integridade e a recuperação rápida de dados críticos e imagens de sistema em computadores antes de manutenções, atualizações ou falhas de armazenamento. Na rotina técnica, evita perda definitiva de arquivos e reduz o tempo de inatividade da estação de trabalho.
