@@ -1,0 +1,23 @@
+# [Título do Procedimento Técnico — UC 3]
+
+* **Aluno(a):** luciano martins gomes
+* **Tema:** quest additions e vmware tools
+
+## 1. Objetivo
+Corrigir problemas de resolução de tela e copiar/colar em máquinas virtuais utilizando Guest Additions (VirtualBox) ou VMware Tools (VMware).
+
+## 2. Ferramentas e Cuidados Técnicos
+* ** Ferramentas: [VirtualBox ou VMware, Guest Additions ou VMware Tools.]
+* ** Boas práticas: [Criar snapshot antes da instalação e reiniciar a VM após concluir.]
+
+## 3. Passo a Passo
+1. inicie a máquina virtual
+2. instale as ferramentas
+       .vitualbox
+3. Dispositivos → Inserir imagem de CD dos Adicionais para Convidado     
+
+## 4. Como Validar (Teste Final)
+[] A resolução ajusta automaticamente.
+[] O modo tela cheia funciona.
+[] copiar/colar funciona entre host e VM.
+[] Não há erros relacionados às ferramentas instaladas.
