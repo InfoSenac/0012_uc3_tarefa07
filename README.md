@@ -1,4 +1,5 @@
-# Prática de Esteira Git/GitHub — UC 3 (Manutenção de Computadores)
+# Prática de Esteira Git/GitHub — 
+UC 3 (Manutenção de Computadores)
 
 Repositório oficial para treino de **Fork**, **Branch** e **Pull Request** com documentação técnica em Markdown (`.md`).
 
