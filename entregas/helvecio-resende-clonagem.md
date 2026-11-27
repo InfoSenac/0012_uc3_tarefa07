@@ -53,7 +53,7 @@ flowchart TB
 
     subgraph transferencia["4. Início da transferência"]
         direction LR
-        J[ctrl+c] -->   --> K["Clique em power off"]
+        J[ctrl+c] --> K["Clique em power off"]
     end
 
     inicio --> operacao --> rede --> transferencia
